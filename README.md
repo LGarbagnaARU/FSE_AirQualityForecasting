@@ -1,7 +1,7 @@
 # FSE_AirQualityForecasting
 This repository is related to the PhD research titled "A Data Driver Framework for Green Urban Planning".
 Created for the Annual Faculty of Science and Engineering Research Conference 2024 from ARU, it presents some of the research experiments and results both from the PhD and related published articles/research collaboration.
-For now it is an overview of the work, and only work that has been completed in its entirety is present. It will be updated in the next months as all experimentations will be concluded. The code for each experiment and the datasets, where publicly available, will be uploaded in this repository as well.
+For now it is an overview of the project, and only work that has been completed in its entirety is present. It will be updated in the next months as all experimentations will be concluded. The code for each experiment and the datasets, where publicly available, will be uploaded in this repository as well.
 
 
 # 1. Urban Terrain Segmentation
